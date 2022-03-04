@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... at home
+
+- 🌱 I’m currently learning ... machine learning on aws
+
+
 <!--
 **agmalpartida/agmalpartida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
