@@ -2,8 +2,11 @@
 
 - 🔭 I’m currently working on ... at home
 
-- 🌱 I’m currently learning ... machine learning on aws
+- 🌱 I’m currently learning ...
 
+[![agmalpartida's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmalpartida&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmalpartida&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **agmalpartida/agmalpartida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
