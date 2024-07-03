@@ -4,9 +4,9 @@
 
 # Hey, I'm <a href="https://www.linkedin.com/in/<user>/" target="_blank"></a>! 👋
 
-<a href= "https://www.linkedin.com/in/<user>/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
+<a href= "https://www.linkedin.com/in/agmalpartida/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
 
-#- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...
 
 
 <!--
