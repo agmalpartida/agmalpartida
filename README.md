@@ -1,21 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... 
 
-# Hey, I'm <a href="https://www.linkedin.com/in/agmalpartida/" target="_blank"></a>! 👋
+Hey, I'm <a href="https://www.linkedin.com/in/agmalpartida/" target="_blank"></a>! 👋
 
 <a href= "https://www.linkedin.com/in/agmalpartida/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
 
-- 🌱 I’m currently learning ...
 
+## 🌱 About me!
 
-<!--
-## About me!
+* <a href="https://www.credly.com/badges/325aaee3-a11b-401d-9363-8c5256097c2d">CKAD: Certified Kubernetes Application Developer</a>
+* <a href="https://www.credly.com/badges/c1800f38-1c97-4dd3-baad-fb1bdbecff0c">AWS Certified Solutions Architect – Associate</a>
+* Blog - check it out! <a href="https://albertogalvez.com">https://albertogalvez.com</a>
 
-* <a href="https://rhtapps.redhat.com/verify?certId=">Red Hat Certified Architect in Infrastructure Level II</a>
-* Blogger - check it out! <a href="https:///">https://</a>
-
--->
 
 <!-- [![agmalpartida's GitHub stats](https://github-readme-stats.vercel.app/api?username=agmalpartida&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!---->
