@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hey, I'm <a href="https://www.linkedin.com/in/agmalpartida/" target="_blank"></a>! 👋
+Hey, I'm <a href="https://www.linkedin.com/in/agmalpartida/" target="_blank"></a>!
 
 <a href= "https://www.linkedin.com/in/agmalpartida/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
 
